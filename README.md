@@ -111,7 +111,8 @@ jupyter notebook        # or: jupyter lab
 ---
 
 ## 8. Screencast (5–10 minutes)
-Place a short video at `media/screencast.mp4` showing: environment setup, running `02_` (baselines), running `04_` (MBGWO comparison), and key takeaways.
+Placed a short video at `media/screencast.mp4` showing: environment setup, running `02_` (baselines), running `04_` (MBGWO comparison), and key takeaways.
+Download Screencast Video - https://github.com/divya-392/Master-s-Project/blob/main/media/screencast.mp4)
 
 ---
 
