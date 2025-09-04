@@ -7,7 +7,7 @@ We compare tree-based classifiers trained on **all features** versus models trai
 The pipeline integrates **feature engineering** (IG/FCBF/KPCA), **Modified Binary Grey Wolf Optimisation (MBGWO)** for feature selection, and **tree-based classifiers** (DT/RF/ET/XGBoost), with **hyperparameter tuning** and an optional **stacking ensemble**.  
 All experiments are reproducible via numbered Jupyter notebooks.
 
-**Thesis (PDF):** `Thesis/Your_Thesis.pdf`  
+**Thesis (PDF):** `Thesis/G00473080_ThesisReport.pdf`  
 **Screencast (5–10 min):** `media/screencast.mp4`
 
 ---
@@ -48,7 +48,7 @@ This rewards **predictive performance** and **sparsity** simultaneously (α ∈ 
 ├─ Data_Combining.ipynb                            # Combining the .csv files
 ├─ FCBF_module.py                                  # Optional Module used for correlation-based filter experiments
 ├─ requirements.txt                                # Pinned Python dependencies
-├─ Thesis/G00473080_Thesis.pdf                          # Master’s thesis (PDF)
+├─ Thesis/G00473080_ThesisReport.pdf                          # Master’s thesis (PDF)
 └─ media/screencast.mp4                            # 5–10 minute demo video
 ```
 > If you include the full CICIDS2017 dataset, place it under `data/` and adjust paths in notebooks as needed.
