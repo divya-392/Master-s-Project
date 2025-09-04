@@ -1,5 +1,5 @@
-# Master-s-Project
-# Intelligent Intrusion Detection System (IDS) with MBGWO Feature Selection
+# Masters Project
+# Intelligent Intrusion Detection System (IDS) Using Machine Learning and Grey Wolf Optimisation.
 
 This repository contains the artefacts for a Master’s project that builds and evaluates an Intrusion Detection System (IDS) using **CICIDS2017** dataset. 
 We compare tree-based classifiers trained on **all features** versus models trained on features selected via **Modified Binary Grey Wolf Optimisation (MBGWO)**. A future-work notebook outlines a per-class ensemble idea (LCCDE).
